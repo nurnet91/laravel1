@@ -1,0 +1,6 @@
+
+.header, .breaking-news .the-title, .widget > h3, .button, a.small-button, .marker, .hover-effect,
+.block-title, #wp-calendar td#today, .small-button, #writecomment p input[type=submit] {background-color: rgb(13, 150, 236); }
+.list-title, a:hover, a.mobile-menu{color: rgb(13, 150, 236); }
+.list-title {border-bottom: 2px solid rgb(13, 150, 236); }
+
